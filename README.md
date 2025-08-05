@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Malike Guenoukpati</h1>
+<h1 align="center"> Bonjour, je suis Malike Guenoukpati</h1>
 
 <p align="center">
    Licence Professionnelle en Informatique<br/>
