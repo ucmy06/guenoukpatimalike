@@ -17,7 +17,7 @@ Basé à Lomé, Togo
 - WhatsApp : +228 98350449
 
 ## 📈 Statistiques GitHub
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=guenoukpatimalike&show_icons=true&theme=radical)
+![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=ucmy06&show_icons=true&theme=radical)
 
 ---
 
