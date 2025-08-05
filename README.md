@@ -1,8 +1,8 @@
 # guenoukpatimalike
 #  Bonjour, je suis Malike Guenoukpati
 
-Étudiant en Licence professionnelle en Informatique  
-Développeur web fullstack passionné : React | Node.js | Laravel | MongoDB  
+Developpeur web fullstack
+Développeur web fullstack passionné : React | Node.js | Laravel | MongoDB
 Basé à Lomé, Togo
 
 ##  Compétences
@@ -11,12 +11,12 @@ Basé à Lomé, Togo
 - Base de données : MongoDB, MySQL
 - Autres : Git, GitHub, Flutter
 
-## 📫 Me contacter
+## Me contacter
 - Email : juliengoukpati825@gmail.com
 - LinkedIn : []
 - WhatsApp : +228 98350449
 
-## 📈 Statistiques GitHub
+## Statistiques GitHub
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=ucmy06&show_icons=true&theme=radical)
 
 ---
