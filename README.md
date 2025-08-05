@@ -4,7 +4,7 @@
 <h1 align="center">👋 Bonjour, je suis Malike Guenoukpati</h1>
 
 <p align="center">
-  🎓 Étudiant en Licence Professionnelle en Informatique<br/>
+  🎓 Licence Professionnelle en Informatique<br/>
   💻 Développeur Web Fullstack | React • Node.js • Laravel • MongoDB<br/>
   📍 Basé à Lomé, Togo<br/>
   🌐 <a href="#" target="_blank">Voir mon portfolio</a>
