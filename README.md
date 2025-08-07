@@ -1,20 +1,20 @@
 # ucmy06
-#  Bonjour, je suis Malike Guenoukpati
+#  Malike Guenoukpati
 
-<h1 align="center">👋 Bonjour, je suis Malike Guenoukpati</h1>
+<h1 align="center"> Bonjour, je suis Malike Guenoukpati</h1>
 
 <p align="center">
-  🎓 Licence Professionnelle en Informatique<br/>
-  💻 Développeur Web Fullstack | React • Node.js • Laravel • MongoDB<br/>
-  📍 Basé à Lomé, Togo<br/>
-  🌐 <a href="#" target="_blank">Voir mon portfolio</a>
+   Licence Professionnelle en Informatique<br/>
+   Développeur Web Fullstack | React • Node.js • Laravel • MongoDB<br/>
+   Basé à Lomé, Togo<br/>
+   <a href="https://ucmy06.github.io/Mon-CV/" target="_blank">Voir mon portfolio</a>
 </p>
 
 ---
 
-## 🚀 Compétences Techniques
+##  Compétences Techniques
 
-### 🧩 Frontend
+###  Frontend
 - React.js
 - HTML5, CSS3, JavaScript (ES6+)
 - Tailwind CSS, Bootstrap
@@ -24,11 +24,11 @@
 - Node.js, Express.js
 - Laravel, PHP
 
-### 🗄 Bases de Données
+###  Bases de Données
 - MongoDB
 - MySQL
 
-### 🧰 Autres Outils
+###  Autres Outils
 - Git & GitHub
 - Postman
 - Figma
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ucmy06&show_icons=true&theme=radical" alt="Statistiques GitHub de ucmy06" />
@@ -47,33 +47,33 @@
 
 ---
 
-## 📫 Me Contacter
+##  Me Contacter
 
-- 📧 Email : [juliengoukpati825@gmail.com](mailto:juliengoukpati825@gmail.com)
-- 💼 LinkedIn : *(à compléter)*
-- 📱 WhatsApp : +228 98350449
-- 🌐 [Portfolio](#)
-
----
-
-## 🧪 Projets Récents
-
-- 💊 **PharmOne** – Plateforme de gestion de commandes de médicaments  
-- 👤 **Système de gestion d’utilisateurs** – Authentification, rôles, sécurité  
-- 🗺️ **Géolocalisation Google Maps** – Affichage de pharmacies proches  
+-  Email : [juliengoukpati825@gmail.com](mailto:juliengoukpati825@gmail.com)
+-  LinkedIn : *(à compléter)*
+-  WhatsApp : +228 98350449
+-  [Portfolio](https://ucmy06.github.io/Mon-CV/)
 
 ---
 
-## 🎯 Objectifs Actuels
+##  Projets Récents
 
-- 🔭 Déployer mes projets (Netlify, Vercel, Render)
-- 🌍 Participer à des projets open source
-- 📱 Développer mes compétences en mobile avec Flutter
-- 🚀 Travailler sur des projets innovants dans la santé et l’éducation
+-  **PharmOne** – Plateforme de gestion de commandes de médicaments  
+-  **Système de gestion d’utilisateurs** – Authentification, rôles, sécurité  
+-  **Géolocalisation Google Maps** – Affichage de pharmacies proches  
 
 ---
 
-## 🙌 Merci pour votre visite !
+##  Objectifs Actuels
+
+-  Déployer mes projets (Netlify, Vercel, Render)
+-  Participer à des projets open source
+-  Développer mes compétences en mobile avec Flutter
+-  Travailler sur des projets innovants dans la santé et l’éducation
+
+---
+
+##  Merci pour votre visite !
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ucmy06&label=Profil+visité&color=blue&style=flat" alt="ucmy06" />
